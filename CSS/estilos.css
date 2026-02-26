@@ -1,0 +1,21 @@
+body {
+    margin: 0px;
+    background: black;
+    color: white;
+    text-align: center;
+}
+
+header {
+    height: 200px;
+    text-align: left;
+    padding: 15px;
+}
+
+footer {
+    background: darkred;
+}
+
+.elemfooter {
+    margin-left: auto;
+    margin-right: auto;
+}
